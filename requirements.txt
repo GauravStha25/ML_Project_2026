@@ -1,0 +1,10 @@
+numpy
+liffile
+readlif
+pandas
+scipy
+#pytorch
+scikit-image
+pillow
+tifffile
+matplotlib
